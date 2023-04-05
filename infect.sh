@@ -9,7 +9,8 @@ ylo="\e[93m"
 blue="\e[94m"
 cyan="\e[96m"
 pink="\e[95m"
-#-----------------
+#---https://www.facebook.com/profile.php?id=100021662025054&mibextid=ZbWKwL
+--------------
 # scripting start
 banner(){
 vid
@@ -91,7 +92,7 @@ echo " "
 echo " "
 echo -e "$grn               >＞＞＞＞＞$ylo [SELECT]$grn ＜＜＜＜＜<$rset"
 echo " "
-echo -ne "\e[92m#SELECT OPTION\e[92m: "
+echo -ne "\e[92m#SELECT OP0TION\e[92m: "
 read optnz
 if [ $optnz = "1" ];
 then
